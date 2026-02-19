@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マネー、マネー、マネー",
+  "base_artist": "ABBA",
+  "createdAt": "2026-02-19T17:29:53.112834Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Money, Money, Money",
+      "artist": "ABBA",
+      "has_synced": false,
+      "path": "select/pl_01_Money,_Money,_Money_ABBA.txt"
+    }
+  ]
+}
